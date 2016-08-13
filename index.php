@@ -1,4 +1,4 @@
 <?php 
 echo phpinfo(); 
-echo "Hello";
+echo "Hello, CI/CD!";
 ?>
